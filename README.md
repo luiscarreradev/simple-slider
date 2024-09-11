@@ -1,1 +1,1 @@
-# Simple Slider
+# Simple Slider API
